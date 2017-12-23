@@ -1,0 +1,9 @@
+Building BitcoinFor
+
+See doc/readme-qt.rst for instructions on building BitcoinFor QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinFor.
+
+See doc/build-*.txt for instructions on building bitcoinford,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinFor.
